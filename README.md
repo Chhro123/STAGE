@@ -8,13 +8,13 @@
 
 If you find this work useful, please cite:
 ```bibtex
-@inproceedings{STAGE2025,
-  author = {Anonymous Author(s)},
-  title = {STAGE: Segmentation-oriented Industrial Anomaly Synthesis via Graded Diffusion with Explicit Mask Alignment},
-  booktitle = {Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS)},
-  year = {2025}
+@article{STAGE2025,
+  author    = {Xichen Xu and Yanshu Wang and Jinbao Wang and Qunyi Zhang and Xiaoning Lei and Guoyang Xie and Guannan Jiang and Zhichao Lu},
+  title     = {STAGE: Segmentation-oriented Industrial Anomaly Synthesis via Graded Diffusion with Explicit Mask Alignment},
+  journal   = {arXiv preprint arXiv: 2509.06693},
+  year      = {2025}
 }
-```
+`
 ## 📌 Introduction
 **STAGE** addresses three core challenges in anomaly synthesis for segmentation tasks:.
 
