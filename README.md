@@ -8,11 +8,14 @@
 
 If you find this work useful, please cite:
 ```bibtex
-@article{STAGE2025,
-  author    = {Xichen Xu and Yanshu Wang and Jinbao Wang and Qunyi Zhang and Xiaoning Lei and Guoyang Xie and Guannan Jiang and Zhichao Lu},
-  title     = {STAGE: Segmentation-oriented Industrial Anomaly Synthesis via Graded Diffusion with Explicit Mask Alignment},
-  journal   = {arXiv preprint arXiv: 2509.06693},
-  year      = {2025}
+@misc{xu2025stagesegmentationorientedindustrialanomaly,
+      title={STAGE: Segmentation-oriented Industrial Anomaly Synthesis via Graded Diffusion with Explicit Mask Alignment}, 
+      author={Xichen Xu and Yanshu Wang and Jinbao Wang and Qunyi Zhang and Xiaoning Lei and Guoyang Xie and Guannan Jiang and Zhichao Lu},
+      year={2025},
+      eprint={2509.06693},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.06693}, 
 }
 ```
 ## 📌 Introduction
