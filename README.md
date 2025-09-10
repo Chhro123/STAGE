@@ -14,7 +14,7 @@ If you find this work useful, please cite:
   journal   = {arXiv preprint arXiv: 2509.06693},
   year      = {2025}
 }
-`
+```
 ## 📌 Introduction
 **STAGE** addresses three core challenges in anomaly synthesis for segmentation tasks:.
 
